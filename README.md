@@ -11,7 +11,7 @@ Este notebook contém a análise de dados e visualizações do projeto.
 ### 1️⃣ **Análise de Vendas**  
 - Faturamento total por loja.  
 - Tendências de faturamento mensal e anual.  
-![Exemplo de gráfico de barras](https://i.imgur.com/4Qf1Q8v.png)  
+![Exemplo de gráfico de barras]([https://i.imgur.com/4Qf1Q8v.png](https://github.com/emilibohrer/alura_store/blob/main/imagens_export/faturamento_anual_lojas.png))  
 *Insight:* Loja 1 lidera o faturamento, enquanto Loja 4 apresenta o menor desempenho.
 
 ### 2️⃣ **Análise por Categoria**  
