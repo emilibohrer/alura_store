@@ -4,6 +4,7 @@ Este notebook contém a análise de dados e visualizações do projeto.
 ## 📂 Estrutura dos Arquivos  
 - **AluraStoreBr.ipynb** → Notebook principal com as análises.  
 - **base-de-dados-challenge-1/** → Pasta contendo os arquivos CSV com dados de vendas de cada loja.  
+- **imagens_export/** → Pasta contendo as imagens gráficas das análises. 
 
 ## 🔎 Visão Geral da Análise  
 
