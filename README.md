@@ -11,25 +11,23 @@ Este notebook contém a análise de dados e visualizações do projeto.
 ### 1️⃣ **Análise de Vendas**  
 - Faturamento total por loja.  
 - Tendências de faturamento mensal e anual.  
-![Exemplo de gráfico de barras](https://i.imgur.com/4Qf1Q8v.png)  
+![Exemplo de gráfico de barras](https://github.com/emilibohrer/alura_store/blob/main/imagens_export/faturamento_anual_lojas.png)
 *Insight:* Loja 1 lidera o faturamento, enquanto Loja 4 apresenta o menor desempenho.
 
 ### 2️⃣ **Análise por Categoria**  
 - Distribuição de faturamento e quantidade por categoria de produto.  
-- Visualização da contribuição das categorias por meio de gráficos de pizza e barras.  
-![Exemplo de gráfico de pizza](https://i.imgur.com/8w1vQwK.png)  
+![Exemplo de gráfico de pizza](https://github.com/emilibohrer/alura_store/blob/main/imagens_export/faturamento_categoria.png)  
 *Insight:* Eletrônicos e Eletrodomésticos são as categorias mais relevantes em todas as lojas.
 
 ### 3️⃣ **Feedback dos Clientes**  
-- Média das avaliações por loja e categoria.  
-- Tendências das avaliações ao longo do tempo.  
-![Exemplo de gráfico de barras](https://i.imgur.com/3Qf1Q8v.png)  
-*Insight:* Todas as lojas possuem avaliações próximas, com destaque para Loja 3 e Loja 4.
+- Média das avaliações por loja.  
+![Exemplo de gráfico de barras](https://github.com/emilibohrer/alura_store/blob/main/imagens_export/avaliacao_lojas.png)  
+*Insight:* Todas as lojas possuem avaliações próximas, com destaque para Loja 2 e Loja 3.
 
 ### 4️⃣ **Custos de Frete**  
 - Custo médio de frete por loja e por categoria.  
 - Insights sobre variações no custo do frete.  
-![Exemplo de gráfico de linha](https://i.imgur.com/2Qf1Q8v.png)  
+![Exemplo de gráfico de linha](https://github.com/emilibohrer/alura_store/blob/main/imagens_export/frete_medio_anual.png)  
 *Insight:* Loja 4 mantém custos de frete mais baixos e estáveis.
 
 ## 💡 Principais Insights
