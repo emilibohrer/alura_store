@@ -42,9 +42,9 @@ Este notebook contém a análise de dados e visualizações do projeto.
 ## ⚙️ Como Executar  
 
 1️⃣ Clone o repositório ou baixe os arquivos.  
-2️⃣ Instale as bibliotecas necessárias do Python 
-3️⃣ Abra AluraStoreBr.ipynb no Jupyter Notebook ou JupyterLab.
-4️⃣ Execute as células sequencialmente para gerar as análises e gráficos.
+2️⃣ Instale as bibliotecas necessárias do Python.  
+3️⃣ Abra AluraStoreBr.ipynb no Jupyter Notebook ou JupyterLab.  
+4️⃣ Execute as células sequencialmente para gerar as análises e gráficos.  
 
 
 ## 📁 Fontes de Dados
